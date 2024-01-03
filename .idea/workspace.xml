@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73311ad8-65fc-4d57-bb2e-2f413e5bd84a" name="Changes" comment="часть 5 completed">
-      <change afterPath="$PROJECT_DIR$/locallibrary/catalog/templates/catalog/book_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locallibrary/catalog/templates/catalog/book_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.~lock.Mozilla-tutorial_local_library_website (2).odt#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locallibrary/catalog/templates/catalog/author_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locallibrary/catalog/templates/catalog/author_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.~lock.Mozilla-tutorial_local_library_website.odt#" beforeDir="false" afterPath="$PROJECT_DIR$/.~lock.Mozilla-tutorial_local_library_website.odt#" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mozilla-tutorial_local_library_website.odt" beforeDir="false" afterPath="$PROJECT_DIR$/Mozilla-tutorial_local_library_website.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locallibrary/catalog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/catalog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/locallibrary/catalog/templates/base_generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/catalog/templates/base_generic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locallibrary/catalog/templates/catalog/book_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/catalog/templates/catalog/book_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/locallibrary/catalog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/catalog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/locallibrary/catalog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/catalog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locallibrary/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.local_library_website.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/oleg/Yandex.Disk/PYTHON_ubuntu/REPOS/Mozilla-tutorial_local_library_website/locallibrary/manage.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.local_library_website.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/oleg/Yandex.Disk/PYTHON_ubuntu/REPOS/Mozilla-tutorial_local_library_website/locallibrary/catalog/templates/catalog"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/locallibrary/catalog/templates/catalog" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="local_library_website" type="PythonConfigurationType" factoryName="Python">
       <module name="Mozilla-tutorial_local_library_website" />
